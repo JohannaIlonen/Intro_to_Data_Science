@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-07T11:22:55.457Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="5vlgwRxrAgMEFtYvlsaK" version="15.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-07T11:43:02.696Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="2uI5wfWnG4dx_dpm1LMH" version="15.7.2" type="github">
   <diagram id="ccjQrK3PAk_YyHWKcNk5" name="Page-1">
     <mxGraphModel dx="1635" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -27,14 +27,148 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ab6gibgk-axS6Ay7h2N--12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ab6gibgk-axS6Ay7h2N--7" target="ab6gibgk-axS6Ay7h2N--23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ab6gibgk-axS6Ay7h2N--7" value="&lt;b&gt;3: &lt;/b&gt;&lt;br&gt;departure equal to destination?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="210" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ab6gibgk-axS6Ay7h2N--9" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="210" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ab6gibgk-axS6Ay7h2N--10" value="&lt;b&gt;2:&lt;/b&gt; End destination" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="495" y="320" width="90" height="40" as="geometry" />
+        <mxCell id="ab6gibgk-axS6Ay7h2N--13" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="495" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ab6gibgk-axS6Ay7h2N--25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ab6gibgk-axS6Ay7h2N--14" target="ab6gibgk-axS6Ay7h2N--19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ab6gibgk-axS6Ay7h2N--47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ab6gibgk-axS6Ay7h2N--14" target="ab6gibgk-axS6Ay7h2N--42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="425" y="700" />
+              <mxPoint x="540" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ab6gibgk-axS6Ay7h2N--14" value="&lt;b&gt;5:&lt;/b&gt;&amp;nbsp;Departure date" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="490" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ab6gibgk-axS6Ay7h2N--46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ab6gibgk-axS6Ay7h2N--19" target="ab6gibgk-axS6Ay7h2N--42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="255" y="700" />
+              <mxPoint x="540" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ab6gibgk-axS6Ay7h2N--19" value="&lt;b&gt;6:&lt;/b&gt;&amp;nbsp;Departure dates in January" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="490" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ab6gibgk-axS6Ay7h2N--24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ab6gibgk-axS6Ay7h2N--23" target="ab6gibgk-axS6Ay7h2N--14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ab6gibgk-axS6Ay7h2N--29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ab6gibgk-axS6Ay7h2N--23" target="ab6gibgk-axS6Ay7h2N--27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ab6gibgk-axS6Ay7h2N--23" value="&lt;b&gt;4:&lt;/b&gt;&amp;nbsp;One way / return" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="350" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ab6gibgk-axS6Ay7h2N--26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ab6gibgk-axS6Ay7h2N--27" target="ab6gibgk-axS6Ay7h2N--28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ab6gibgk-axS6Ay7h2N--36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ab6gibgk-axS6Ay7h2N--27" target="ab6gibgk-axS6Ay7h2N--34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ab6gibgk-axS6Ay7h2N--27" value="&lt;b&gt;5:&lt;/b&gt;&amp;nbsp;Departure date" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="490" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ab6gibgk-axS6Ay7h2N--41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ab6gibgk-axS6Ay7h2N--28" target="ab6gibgk-axS6Ay7h2N--40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ab6gibgk-axS6Ay7h2N--28" value="&lt;b&gt;6:&lt;/b&gt;&amp;nbsp;Departure dates in January" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="490" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ab6gibgk-axS6Ay7h2N--30" value="One way" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ab6gibgk-axS6Ay7h2N--31" value="Return" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ab6gibgk-axS6Ay7h2N--32" value="If user want to see departure dates for January" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="440" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ab6gibgk-axS6Ay7h2N--33" value="If user want to see departure dates for January" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="440" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ab6gibgk-axS6Ay7h2N--38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ab6gibgk-axS6Ay7h2N--34" target="ab6gibgk-axS6Ay7h2N--35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ab6gibgk-axS6Ay7h2N--43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ab6gibgk-axS6Ay7h2N--34" target="ab6gibgk-axS6Ay7h2N--42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="665" y="700" />
+              <mxPoint x="540" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ab6gibgk-axS6Ay7h2N--34" value="&lt;b&gt;7:&lt;/b&gt;&amp;nbsp;Return date" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="640" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ab6gibgk-axS6Ay7h2N--44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ab6gibgk-axS6Ay7h2N--35" target="ab6gibgk-axS6Ay7h2N--42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="825" y="700" />
+              <mxPoint x="540" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ab6gibgk-axS6Ay7h2N--35" value="&lt;b&gt;8:&lt;/b&gt;&amp;nbsp;Return dates in January" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="640" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ab6gibgk-axS6Ay7h2N--39" value="If user want to see return dates in January" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="600" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ab6gibgk-axS6Ay7h2N--45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ab6gibgk-axS6Ay7h2N--40" target="ab6gibgk-axS6Ay7h2N--42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="945" y="700" />
+              <mxPoint x="540" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ab6gibgk-axS6Ay7h2N--40" value="&lt;b&gt;9:&lt;/b&gt;&amp;nbsp;Return dates in January" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="640" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ab6gibgk-axS6Ay7h2N--49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ab6gibgk-axS6Ay7h2N--42" target="ab6gibgk-axS6Ay7h2N--48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ab6gibgk-axS6Ay7h2N--42" value="&lt;b&gt;10:&lt;/b&gt;&amp;nbsp;Travelling&lt;br&gt;alone?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="760" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ab6gibgk-axS6Ay7h2N--53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ab6gibgk-axS6Ay7h2N--48" target="ab6gibgk-axS6Ay7h2N--50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ab6gibgk-axS6Ay7h2N--48" value="&lt;b&gt;11: &lt;/b&gt;Number of infants" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="850" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ab6gibgk-axS6Ay7h2N--55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ab6gibgk-axS6Ay7h2N--50" target="ab6gibgk-axS6Ay7h2N--51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ab6gibgk-axS6Ay7h2N--50" value="&lt;b&gt;12: &lt;/b&gt;Number of kids" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="850" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ab6gibgk-axS6Ay7h2N--56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ab6gibgk-axS6Ay7h2N--51" target="ab6gibgk-axS6Ay7h2N--52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ab6gibgk-axS6Ay7h2N--51" value="&lt;b&gt;13: Number of&amp;nbsp;&lt;/b&gt;Adults" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="868" y="850" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ab6gibgk-axS6Ay7h2N--52" value="&lt;b&gt;14: &lt;/b&gt;Numbers of&amp;nbsp;Seniors" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="975" y="850" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
